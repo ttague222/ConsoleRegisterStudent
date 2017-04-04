@@ -1,0 +1,18 @@
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.csprojResolveAssemblyReference.cache
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week5\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week5\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week5\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week5\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week5\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week5\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.exe.config
+C:\Users\Thomas\Desktop\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.exe
+C:\Users\Thomas\Desktop\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.pdb
+C:\Users\Thomas\Desktop\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.exe
+C:\Users\Thomas\Desktop\ConsoleRegisterStudent\ConsoleRegisterStudent\bin\Debug\ConsoleRegisterStudent.pdb
+C:\Users\Thomas\Desktop\ConsoleRegisterStudent\ConsoleRegisterStudent\obj\Debug\ConsoleRegisterStudent.csprojResolveAssemblyReference.cache
